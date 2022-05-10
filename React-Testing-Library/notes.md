@@ -24,8 +24,8 @@ React Testing Library focuses on testing components from the end-user’s experi
 
 ### Usefull resources
 
-> [9TipsAndTricks][ref2] Source: Paige Niedringhaus Article (2020)
-> [CoveringAllTheBasics][ref3] Source: Chidi Orji Article (2020)
+> [9TipsAndTricks][ref2] Source: Paige Niedringhaus Article (2020)  
+> [CoveringAllTheBasics][ref3] Source: Chidi Orji Article (2020)  
 > [DetailedTypeOfTests][ref4] Source: Ibrahima Ndaw Article at freecodecamp (2020)
 
 [ref1]: https://www.youtube.com/watch?v=SppbtlpPZu4&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ&index=4

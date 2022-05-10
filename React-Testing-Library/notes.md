@@ -12,13 +12,13 @@ React Testing Library focuses on testing components from the end-user’s experi
 
 # Query Metods Outputs
 
-![alt text](React-Testing-Library\QueryMetodsOutput.png "Query metods")
+![alt text](QueryMetodsOutput.png "Query metods")
 
 [DetailedExplanation][ref5]
 
 # Priority Use (Just Advice)
 
-![alt text](React-Testing-Library\PriorityMetods.png "Priority metods")
+![alt text](PriorityMetods.png "Priority metods")
 
 [DetailedExplanation][ref6]
 

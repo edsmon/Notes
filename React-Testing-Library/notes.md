@@ -1,4 +1,4 @@
-_This notes are related to the youtube course of "The Net Ninja" for React-Testing-Library, also, this will be complemented with screenshots and other sources of information that add to the content._
+_This notes are related to the youtube course of ["The Net Ninja"][ref7] for React-Testing-Library, also, this will be complemented with screenshots and other sources of information that add to the content._
 
 # What
 
@@ -34,3 +34,4 @@ React Testing Library focuses on testing components from the end-user’s experi
 [ref4]: https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/
 [ref5]: https://www.youtube.com/watch?v=Yghw9FkNGsc&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ&index=5
 [ref6]: https://www.youtube.com/watch?v=PLL5Pvuk-tw&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ&index=6
+[ref7]: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
